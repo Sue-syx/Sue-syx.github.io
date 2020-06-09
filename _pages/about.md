@@ -21,15 +21,10 @@ My research interests are in machine learning with applications for healthcare. 
 
 ## Selected Awards
 
-- Zhejiang University First Class Scholarship                                                                                           2019
-
-- Provincial Government Scholarship of Zhejiang University                                                                2019
-- New-Shoot Talents Program for Science and Technology Department of Zhejiang Province       2019
-
-- Corporate Cooperation Award of 2019 Hangzhou Future Technology City-Smart City Construction Partner Competition (1/405)                                                                                                                    2019
-
-- Second prize of College Student Physics Academic Competition                                                      2019
-
-- Zhejiang University Third Class Scholarship                                                                                          2018
-
-- First Prize of Smart Car Competition (1/92)                                                                                           2018
+- Zhejiang University First Class Scholarship                                                                              2019
+- Provincial Government Scholarship of Zhejiang University                                                                 2019
+- New-Shoot Talents Program for Science and Technology Department of Zhejiang Province                                     2019
+- Corporate Cooperation Award of 2019 Hangzhou Future Technology City-Smart City Construction Partner Competition (1/405)  2019
+- Second prize of College Student Physics Academic Competition                                                             2019
+- Zhejiang University Third Class Scholarship                                                                              2018
+- First Prize of Smart Car Competition (1/92)                                                                              2018
