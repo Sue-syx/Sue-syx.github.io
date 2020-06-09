@@ -11,5 +11,5 @@ redirect_from:
 
 **Last updated on June 3, 2020**
 
-[CV_homepage](/CV.pdf )
+[CV_homepage](./CV.pdf )
 
