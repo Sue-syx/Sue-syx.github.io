@@ -16,7 +16,7 @@ Currently, I am working with [Prof. Cheng Zhuo](https://person.zju.edu.cn/chengz
 
 ## Research Interests
 
-My research interests are in machine learning with applications for healthcare. I am also interested in computer vision related topics.
+Theory and optimization of machine learning, data mining interest me a lot. I am also intersted in biomedical analytics and health informatics.
 
 
 
@@ -32,5 +32,5 @@ My research interests are in machine learning with applications for healthcare. 
 
 
 
-## Publication
+## Publications
 Stay Tuned.
