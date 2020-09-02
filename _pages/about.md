@@ -10,13 +10,13 @@ redirect_from:
 
 I am a Junior undergraduate student at [Department of Information Science & Electronic Engineering](http://www.isee.zju.edu.cn/main.htm), [Zhejiang University](http://www.zju.edu.cn/), China.
 
-Currently, I am working with [Prof. Cheng Zhuo](https://person.zju.edu.cn/chengzhuo) researching on hardware acceleration algorithm based on reinforcement learning for deep learning. Previously, I focused on research on efficient convolutional neural network search method for medical image segmentation with [Prof.  Cheng Zhuo](https://person.zju.edu.cn/chengzhuo). I also collaborated with [Prof. Chunguang Li](https://person.zju.edu.cn/cgli) to develop hash learning algorithm based on deep neural network and applied it in efficient image retrieval.
+Currently, I am working with [Prof. Samuel Madden](http://db.csail.mit.edu/madden/) to develop a Spark-based anomaly detection and interpretation system. Previously, I focused on research on efficient convolutional neural network search method for medical image segmentation with [Prof.  Cheng Zhuo](https://person.zju.edu.cn/chengzhuo). I also collaborated with [Prof. Chunguang Li](https://person.zju.edu.cn/cgli) to develop hash learning algorithm based on deep neural network and applied it in efficient image retrieval.
 
 
 
 ## Research Interests
 
-Theory and optimization of machine learning, data mining interest me a lot. I am also intersted in biomedical analytics and health informatics.
+Data mining and optimization of machine learning interest me a lot. I am also intersted in biomedical analytics and health informatics.
 
 
 
